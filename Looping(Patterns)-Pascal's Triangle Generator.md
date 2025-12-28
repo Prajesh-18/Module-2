@@ -44,7 +44,8 @@ for i in range(num_rows):
     print()
 
 ## Sample Output
-https://github.com/user-attachments/assets/607764ef-8a17-447f-be3b-98c89d144187
+<img width="248" height="278" alt="image" src="https://github.com/user-attachments/assets/96c7b80b-380c-4898-94dd-bd67c2f42e7a" />
+
 
 
 ## Result
