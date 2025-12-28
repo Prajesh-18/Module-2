@@ -15,7 +15,8 @@ a=16
 print(bin(a)
 
 ## Output
-https://github.com/user-attachments/assets/cac29444-ddf5-471a-a7a9-42d0ffaaecbc
+
+<img width="697" height="328" alt="image" src="https://github.com/user-attachments/assets/188ffdf7-fbbe-48b8-9cd2-a5e817bd96b8" />
 
 ## Result
 Thus, the program has been successfully executed
