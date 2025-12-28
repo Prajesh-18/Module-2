@@ -20,7 +20,8 @@ b=int(input())
 print("modulo is", result(a, b))
 
 ## Output
-https://github.com/user-attachments/assets/f044b6ad-b341-4bef-b25a-943e8693107f
+<img width="821" height="385" alt="image" src="https://github.com/user-attachments/assets/680dd7dc-9dab-4ff6-8d44-a17497109c2a" />
+
 
 ## Result
 The program to return two values modulo is successful.
