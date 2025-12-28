@@ -18,7 +18,8 @@ f=lambda a,b: a+b
 print(f(a,b))
 
 ## Output
-https://github.com/user-attachments/assets/f651df11-0db8-4148-9787-f1e3d1c59c14
+<img width="572" height="231" alt="image" src="https://github.com/user-attachments/assets/489242b0-18bd-47a7-a761-3aedd9a5f9b3" />
+
 
 ## Result
 Thus, the program has been successfully executed.
